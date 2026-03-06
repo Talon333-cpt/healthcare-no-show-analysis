@@ -17,7 +17,7 @@ This project analyzes factors that contribute to missed healthcare appointments 
 
 ## Dashboard
 
-![Dashboard](dashboard.png)
+![Dashboard](appointmentspower.pdf)
 
 ## Dataset
 Medical Appointment No Shows dataset from Kaggle.
